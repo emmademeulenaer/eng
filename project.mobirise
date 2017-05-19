@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Index.html",
+    "currentPage": "inspi.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "EMMADEMEULENAER2017",
@@ -13,10 +13,10 @@
     "uniqCompNum": 46
   },
   "pages": {
-    "Index.html": {
+    "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Homepage",
         "meta_descr": "Home page, Emma De Meulenaer, styling, textile design, textiel ontwerp, LUCA school of arts 2016, LUCA beeldende kunsten 2016, textile, textiel, collage, fabric, stof, color, kleur, diary, dagboek",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
@@ -145,7 +145,308 @@
         }
       ]
     },
-    "Tekeningen.html": {
+    "wiecontact.html": {
+      "settings": {
+        "title": "Who + contact",
+        "meta_descr": "Wie, who, contact, Emma De Meulenaer, styling, textile design, textiel ontwerp, day of birth, geboortedatum, city, stad, email, instagram, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "16px",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "text-align": "right",
+              "font-size": "48px"
+            },
+            ".mbr-article DIV": {
+              "text-align": "center",
+              "font-size": "16px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-11",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#147b32",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<span style=\"line-height: 1.5em;\">WHO + CON&nbsp;</span>TACT",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "° 4/7/1995, sint-niklaas<div>3th year textile design student at luca school of arts, ghent<br></div><div><span style=\"font-size: 18px;\">emmademeulenaer@hotmail.com</span><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.instagram.com/emma_guus/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Inspi.html\" data-toolbar=\"-mbrBtnMove\">INSPIRATION</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#147b32"
+            },
+            ".mbr-navbar__section": {
+              "background": "#147b32"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#147b32",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-14",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#147b32",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p>Copyright (c) 2017 Emma De Meulenaer &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-white\">Privacy Policy</a><br><span style=\"font-size: 13px; letter-spacing: 1px; line-height: 1.5em; word-spacing: 1px;\">emmademeulenaer@hotmail.com</span></p>"
+        }
+      ]
+    },
+    "werk.html": {
+      "settings": {
+        "title": "Work",
+        "meta_descr": "Wie, who, contact, Emma De Meulenaer, styling, textile design, textiel ontwerp, day of birth, geboortedatum, city, stad, email, instagram, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "16px",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            ".mbr-article DIV": {
+              "text-align": "center"
+            },
+            ".mbr-article SPAN": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-l",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#147b32",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<span style=\"line-height: 1.5em;\">WOR</span><span style=\"line-height: 1.5em;\">K</span>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "A few projects...",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Tekeningen.html\" data-toolbar=\"-mbrBtnMove\">DRAWINGS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Chartres.html\" data-toolbar=\"-mbrBtnMove\">OLVOO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Thepresentisagift.html\" data-toolbar=\"-mbrBtnMove\">THE PRESENT IS A GIFT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Samesame.html\" data-toolbar=\"-mbrBtnMove\">SAME SAME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Mouwpies.html\" data-toolbar=\"-mbrBtnMove\">HEART ON MY SLEAVE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Inspi.html\" data-toolbar=\"-mbrBtnMove\">INSPIRATION</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#147b32"
+            },
+            ".mbr-navbar__section": {
+              "background": "#147b32"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "color": "#147b32",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#147b32",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p>Copyright (c) 2017 Emma De Meulenaer &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-white\">Privacy Policy</a><br><span style=\"font-size: 13px; letter-spacing: 1px; line-height: 1.5em; word-spacing: 1px;\">emmademeulenaer@hotmail.com</span></p>"
+        }
+      ]
+    },
+    "tekeningen.html": {
       "settings": {
         "title": "Drawings",
         "meta_descr": "Drawings, tekeningen, Emma De Meulenaer, styling, textile design, textiel ontwerp, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
@@ -354,7 +655,7 @@
         }
       ]
     },
-    "Chartres.html": {
+    "chartres.html": {
       "settings": {
         "title": "OLVOO",
         "meta_descr": "Work, werk, texture, textuur, color, kleur, concept, drawings, tekeningen, prints, Emma De Meulenaer, styling, textile design, textiel ontwerp, LUCA school of arts 2016, LUCA beeldende kunsten 2016\n",
@@ -586,7 +887,7 @@
         }
       ]
     },
-    "Thepresentisagift.html": {
+    "thepresentisagift.html": {
       "settings": {
         "title": "The present is a gift",
         "meta_descr": "Concept, Emma De Meulenaer, styling, textile design, textiel ontwerp, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
@@ -760,7 +1061,7 @@
         }
       ]
     },
-    "Samesame.html": {
+    "samesame.html": {
       "settings": {
         "title": "Same Same",
         "meta_descr": "Forms, vormen, concept, Emma De Meulenaer, styling, textile design, textiel ontwerp\nLUCA school of arts 2016, LUCA beeldende kunsten 2016",
@@ -950,7 +1251,7 @@
         }
       ]
     },
-    "Mouwpies.html": {
+    "mouwpies.html": {
       "settings": {
         "title": "Heart on my sleave",
         "meta_descr": "Sleaves, mouwen, concept, Emma De Meulenaer, styling, textile design, textiel ontwerp, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
@@ -1131,7 +1432,7 @@
         }
       ]
     },
-    "Inspi.html": {
+    "inspi.html": {
       "settings": {
         "title": "Inspiration",
         "meta_descr": "Inspiration, inspiratie, concept, Emma De Meulenaer, styling, textile design, textiel ontwerp, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
@@ -1302,307 +1603,6 @@
           },
           "_anchor": "buttons1-17",
           "buttons": "    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Tekeningen.html\" data-toolbar=\"-mbrBtnMove\">DRAWINGS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Chartres.html\" data-toolbar=\"-mbrBtnMove\">OLVOO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Thepresentisagift.html\" data-toolbar=\"-mbrBtnMove\">THE PRESENT IS A GIFT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Samesame.html\" data-toolbar=\"-mbrBtnMove\">SAME SAME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Mouwpies.html\" data-toolbar=\"-mbrBtnMove\">HEART ON MY SLEAVE</a>"
-        }
-      ]
-    },
-    "Werk.html": {
-      "settings": {
-        "title": "Work",
-        "meta_descr": "Wie, who, contact, Emma De Meulenaer, styling, textile design, textiel ontwerp, day of birth, geboortedatum, city, stad, email, instagram, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
-        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
-        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
-        "html_before": "",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "46px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "16px",
-              "text-align": "center"
-            },
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
-            },
-            ".mbr-header .mbr-header__text SPAN": {
-              "text-align": "left",
-              "font-size": "48px"
-            },
-            ".mbr-article DIV": {
-              "text-align": "center"
-            },
-            ".mbr-article SPAN": {
-              "text-align": "left",
-              "font-size": "16px"
-            }
-          },
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-l",
-          "_params": {
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#147b32",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "<span style=\"line-height: 1.5em;\">WOR</span><span style=\"line-height: 1.5em;\">K</span>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "A few projects...",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Tekeningen.html\" data-toolbar=\"-mbrBtnMove\">DRAWINGS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Chartres.html\" data-toolbar=\"-mbrBtnMove\">OLVOO</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Thepresentisagift.html\" data-toolbar=\"-mbrBtnMove\">THE PRESENT IS A GIFT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Samesame.html\" data-toolbar=\"-mbrBtnMove\">SAME SAME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Mouwpies.html\" data-toolbar=\"-mbrBtnMove\">HEART ON MY SLEAVE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Inspi.html\" data-toolbar=\"-mbrBtnMove\">INSPIRATION</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#147b32"
-            },
-            ".mbr-navbar__section": {
-              "background": "#147b32"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-m",
-          "_params": {
-            "color": "#147b32",
-            "hamburgerColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
-            "logo": false,
-            "showBrand": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-n",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#147b32",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "<p>Copyright (c) 2017 Emma De Meulenaer &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-white\">Privacy Policy</a><br><span style=\"font-size: 13px; letter-spacing: 1px; line-height: 1.5em; word-spacing: 1px;\">emmademeulenaer@hotmail.com</span></p>"
-        }
-      ]
-    },
-    "Wiecontact.html": {
-      "settings": {
-        "title": "Who + contact",
-        "meta_descr": "Wie, who, contact, Emma De Meulenaer, styling, textile design, textiel ontwerp, day of birth, geboortedatum, city, stad, email, instagram, LUCA school of arts 2016, LUCA beeldende kunsten 2016",
-        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
-        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
-        "html_before": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "46px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "16px",
-              "text-align": "center"
-            },
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
-            },
-            ".mbr-header .mbr-header__text SPAN": {
-              "text-align": "right",
-              "font-size": "48px"
-            },
-            ".mbr-article DIV": {
-              "text-align": "center",
-              "font-size": "16px",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            }
-          },
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-11",
-          "_params": {
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#147b32",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "<span style=\"line-height: 1.5em;\">WHO + CON&nbsp;</span>TACT",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "° 4/7/1995, sint-niklaas<div>3th year textile design student at luca school of arts, ghent<br></div><div><span style=\"font-size: 18px;\">emmademeulenaer@hotmail.com</span><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.instagram.com/emma_guus/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Inspi.html\" data-toolbar=\"-mbrBtnMove\">INSPIRATION</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#147b32"
-            },
-            ".mbr-navbar__section": {
-              "background": "#147b32"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-0",
-          "_params": {
-            "color": "#147b32",
-            "hamburgerColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
-            "logo": false,
-            "showBrand": true,
-            "showButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-14",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#147b32",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "<p>Copyright (c) 2017 Emma De Meulenaer &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-white\">Privacy Policy</a><br><span style=\"font-size: 13px; letter-spacing: 1px; line-height: 1.5em; word-spacing: 1px;\">emmademeulenaer@hotmail.com</span></p>"
         }
       ]
     }

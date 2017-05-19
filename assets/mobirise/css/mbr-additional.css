@@ -45,6 +45,127 @@
 
 
 
+
+
+
+#msg-box3-11 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+}
+#msg-box3-11 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-11 .mbr-article {
+  color: #ffffff;
+  font-family: 'Bitter', serif;
+  font-size: 16px;
+  text-align: center;
+}
+#msg-box3-11 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#msg-box3-11 .mbr-header .mbr-header__text SPAN {
+  text-align: right;
+  font-size: 48px;
+}
+#msg-box3-11 .mbr-article DIV {
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Bitter', serif;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #147b32;
+}
+#menu-0 .mbr-navbar__section {
+  background: #147b32;
+}
+#menu-0 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-0 .mbr-navbar__items a P {
+  font-family: 'Oswald', sans-serif;
+}
+#menu-0 .mbr-brand__name a {
+  font-family: 'Bitter', serif;
+}
+#footer1-14 P {
+  color: #ffffff;
+}
+
+
+
+
+
+
+#msg-box3-l .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+}
+#msg-box3-l .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-l .mbr-article {
+  color: #ffffff;
+  font-family: 'Bitter', serif;
+  font-size: 16px;
+  text-align: center;
+}
+#msg-box3-l .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#msg-box3-l .mbr-header .mbr-header__text SPAN {
+  text-align: left;
+  font-size: 48px;
+}
+#msg-box3-l .mbr-article DIV {
+  text-align: center;
+}
+#msg-box3-l .mbr-article SPAN {
+  text-align: left;
+  font-size: 16px;
+}
+#menu-m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #147b32;
+}
+#menu-m .mbr-navbar__section {
+  background: #147b32;
+}
+#menu-m .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-m .mbr-navbar__items a P {
+  font-family: 'Oswald', sans-serif;
+}
+#menu-m .mbr-brand__name a {
+  font-family: 'Bitter', serif;
+}
+#footer1-n P {
+  color: #ffffff;
+}
+
+
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -320,125 +441,4 @@
 #buttons1-17 .btn {
   font-family: 'Oswald', sans-serif;
   font-size: 14px;
-}
-
-
-
-
-
-
-#msg-box3-l .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-  font-size: 46px;
-}
-#msg-box3-l .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-l .mbr-article {
-  color: #ffffff;
-  font-family: 'Bitter', serif;
-  font-size: 16px;
-  text-align: center;
-}
-#msg-box3-l .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#msg-box3-l .mbr-header .mbr-header__text SPAN {
-  text-align: left;
-  font-size: 48px;
-}
-#msg-box3-l .mbr-article DIV {
-  text-align: center;
-}
-#msg-box3-l .mbr-article SPAN {
-  text-align: left;
-  font-size: 16px;
-}
-#menu-m .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-m.mbr-navbar--stuck .mbr-navbar__section {
-  background: #147b32;
-}
-#menu-m .mbr-navbar__section {
-  background: #147b32;
-}
-#menu-m .mbr-navbar__items a {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#menu-m .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-m .mbr-navbar__items a P {
-  font-family: 'Oswald', sans-serif;
-}
-#menu-m .mbr-brand__name a {
-  font-family: 'Bitter', serif;
-}
-#footer1-n P {
-  color: #ffffff;
-}
-
-
-
-
-
-
-
-#msg-box3-11 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-  font-size: 46px;
-}
-#msg-box3-11 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-11 .mbr-article {
-  color: #ffffff;
-  font-family: 'Bitter', serif;
-  font-size: 16px;
-  text-align: center;
-}
-#msg-box3-11 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#msg-box3-11 .mbr-header .mbr-header__text SPAN {
-  text-align: right;
-  font-size: 48px;
-}
-#msg-box3-11 .mbr-article DIV {
-  text-align: center;
-  font-size: 16px;
-  font-family: 'Bitter', serif;
-}
-#menu-0 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #147b32;
-}
-#menu-0 .mbr-navbar__section {
-  background: #147b32;
-}
-#menu-0 .mbr-navbar__items a {
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-0 .mbr-navbar__items a P {
-  font-family: 'Oswald', sans-serif;
-}
-#menu-0 .mbr-brand__name a {
-  font-family: 'Bitter', serif;
-}
-#footer1-14 P {
-  color: #ffffff;
 }
