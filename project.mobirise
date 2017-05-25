@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "inspi.html",
+    "currentPage": "wiecontact.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "EMMADEMEULENAER2017",
@@ -1172,8 +1172,12 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/xxx-2000x685.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deel-2-2000x1370.jpg",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deel-1-2000x1370.jpg",
+                "active": false
               }
             ],
             "showText": false,
