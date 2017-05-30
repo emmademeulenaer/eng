@@ -1,16 +1,17 @@
 {
   "settings": {
-    "currentPage": "wiecontact.html",
+    "currentPage": "index.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "EMMADEMEULENAEReng2017",
-    "favicon": "@PROJECT_PATH@/assets/images/6-kleiner-1872x2704-49-1872x2704-8-1872x2704-23-1872x2704-95-128x184.png",
+    "favicon": "@PROJECT_PATH@/assets/images/6-kleiner-1872x2704-49-1872x2704-8-1872x2704-23-128x184.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77970403-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "theme": {},
     "noImageResize": "",
-    "uniqCompNum": 47
+    "uniqCompNum": 47,
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
