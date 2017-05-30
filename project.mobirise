@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "thepresentisagift.html",
+    "currentPage": "index.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
-    "name": "EMMADEMEULENAER2017",
+    "name": "EMMADEMEULENAEReng2017",
     "favicon": "@PROJECT_PATH@/assets/images/6-kleiner-1872x2704-49-1872x2704-8-1872x2704-23-1872x2704-95-128x184.png",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77970403-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
@@ -54,7 +54,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tumblr-o17is7lnmz1t96nuoo6-1280-1280x960-44-1280x960-12-1280x960-29.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tumblr-o17is7lnmz1t96nuoo6-1280-1280x960-44-1280x960-2000x1500.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -105,7 +105,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -119,7 +119,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Werk.html\">WORK</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Wiecontact.html\">WHO + CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://ea58f573ca9685c7025bb5bc685bcb77b7f57cf8.googledrive.com/host/0B1ZqVIaJPHH8b0NKVU1QRVFtRGs/\" data-toolbar=\"-mbrBtnMove\">WORK</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://ea58f573ca9685c7025bb5bc685bcb77b7f57cf8.googledrive.com/host/0B1ZqVIaJPHH8b0NKVU1QRVFtRGs/\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -257,7 +257,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -269,7 +269,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -408,7 +408,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -420,7 +420,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -461,21 +461,21 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9939-1-2540x3295-66-2000x2594-78-2000x2594-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-9939-1-2540x3295-66-2000x2594-78.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-9939-2000x2594-800x1037.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-9939-2000x2594.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9940-3421x3303-3-2000x1931-55-2000x1931-85.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-9940-3421x3303-3-2000x1931-55.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1931-800x772.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-2000x1931.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-9941-1610x3143-24-1610x3143-4-1610x3143-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-9941-1610x3143-24-1610x3143-4.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x3904-800x1561.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-2000x3904.jpg",
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -553,7 +553,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-9958-4302x1587-41-2000x738-57-2000x738-49.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-9958-4302x1587-41-2000x738-57.jpg",
-                "active": true
+                "active": false
               }
             ],
             "showText": false,
@@ -603,7 +603,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -615,7 +615,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -835,7 +835,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -847,7 +847,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -932,7 +932,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -944,7 +944,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -1106,7 +1106,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -1118,7 +1118,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -1153,31 +1153,31 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x3020-800x1208.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-2000x3020.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-2-2000x3000.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-mg-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-2-2000x1333.jpg",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-3-2000x1333.jpg",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/-mg-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-3-2000x3000.jpg",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/deel-2-2000x1370.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deel-2-kopie-2000x1370.jpg",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deel-1-kopie-2000x1370.jpg",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/deel-1-2000x1370.jpg",
-                "active": false
               }
             ],
             "showText": false,
@@ -1300,7 +1300,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -1312,7 +1312,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
@@ -1395,7 +1395,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/16833377-10212414939228442-330832037-o-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/16833377-10212414939228442-330832037-o-1400x1050-kopie-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1510,7 +1510,7 @@
             "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -1522,7 +1522,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page8.html\" target=\"_blank\"></a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Index.html\">HOME</a></li>     ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">NEDERLANDS</a></li>"
         },
         {
           "_name": "footer1",
