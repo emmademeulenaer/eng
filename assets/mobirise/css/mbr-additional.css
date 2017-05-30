@@ -403,6 +403,17 @@
 
 
 
+#msg-box3-1a .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-1a .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1a .mbr-article {
+  font-family: 'Bitter', serif;
+  font-size: 18px;
+}
 #menu-o .mbr-brand__name {
   font-size: 16px;
 }
@@ -427,17 +438,6 @@
 }
 #footer1-p P {
   color: #ffffff;
-}
-#msg-box3-11 .mbr-header .mbr-header__text {
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box3-11 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-11 .mbr-article P {
-  font-family: 'Bitter', serif;
-  text-align: center;
 }
 #buttons1-17 .btn {
   font-family: 'Oswald', sans-serif;

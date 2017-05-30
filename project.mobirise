@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "wiecontact.html",
     "versionFirst": "2.9",
     "versionPublish": "3.12.1",
     "name": "EMMADEMEULENAEReng2017",
@@ -10,7 +10,7 @@
     "screenshot": "screenshot.png",
     "theme": {},
     "noImageResize": "",
-    "uniqCompNum": 46
+    "uniqCompNum": 47
   },
   "pages": {
     "index.html": {
@@ -216,8 +216,8 @@
           },
           "title": "<span style=\"line-height: 1.5em;\">WHO + CON&nbsp;</span>TACT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "° 4/7/1995, sint-niklaas<div>3th year textile design student at luca school of arts, ghent<br></div><div><span style=\"font-size: 18px;\">emmademeulenaer@hotmail.com</span><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.instagram.com/emma_guus/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Inspi.html\" data-toolbar=\"-mbrBtnMove\">INSPIRATION</a>"
+          "text": "° 4/7/1995, sint-niklaas<div>3th year textile design student at luca school of arts, ghent<br></div><div><span style=\"font-size: 18px;\">emmademeulenaer@hotmail.com</span></div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.instagram.com/emmademeulenaer\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Werk.html\" data-toolbar=\"-mbrBtnMove\">WORK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Inspi.html\" data-toolbar=\"-mbrBtnMove\">INSPIRATION</a>"
         },
         {
           "_styles": {
@@ -1474,6 +1474,54 @@
         },
         {
           "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1a",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "INSPIRATION",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "alicja kwade - stephen j shanabrook - lucio fontana - seth rice - timo rissanen - martin margiela - henning strassburger - gordon matta-clark - claire barclay - vivianne sassen - ruby hoette - alexandra bircken - marnix goossens - richard tuttle - marie lund - minna palmqvist - anne karine thorbjornsen - louise delanghe - hendrickje schimmel - tenant of culture - a kassen - mae engeleer - sarah forgie - muller van severen - andy boot - christian wijnants - christopher wool - claudio casarino - comme des garçons - edda gimnes - elisa van joolen - ernesto artillo - james turrell - kees goudzwaard - monica bonvincini - nick vaesey - pascale gatzen - tauba auerbach - tenderbooks - tom friedman - nicolai howalt - henri matisse - helio oiticica - esmay wagemans - etienne gros - ice truck killer - ellen wynant - marni - manor grunewald - charlotte de geyter-pittoors - henning strassburger - marie lund",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
             },
@@ -1545,54 +1593,6 @@
             "overlayColor": "#444444"
           },
           "text": "<p>Copyright (c) 2017 Emma De Meulenaer &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-white\">Privacy Policy</a><br><span style=\"font-size: 13px; letter-spacing: 1px; line-height: 1.5em; word-spacing: 1px;\">emmademeulenaer@hotmail.com</span></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article P": {
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-11",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "INSPIRATION",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>alicja kwade - stephen j shanabrook - lucio fontana - seth rice - timo rissanen - martin margiela - henning strassburger - gordon matta-clark - claire barclay - vivianne sassen - ruby hoette - alexandra bircken - marnix goossens - richard tuttle - marie lund - minna palmqvist - anne karine thorbjornsen - louise delanghe - hendrickje schimmel - tenant of culture - a kassen - mae engeleer - sarah forgie - muller van severen - andy boot - christian wijnants - christopher wool - claudio casarino - comme des garçons - edda gimnes - elisa van joolen - ernesto artillo - james turrell - kees goudzwaard - monica bonvincini - nick vaesey - pascale gatzen - tauba auerbach - tenderbooks - tom friedman - nicolai howalt - henri matisse - helio oiticica - esmay wagemans - etienne gros - ice truck killer - ellen wynant - marni - manor grunewald - charlotte de geyter-pittoors - henning strassburger -<span style=\"font-size: 17px;\">&nbsp;marie lund</span></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
